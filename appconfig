@@ -1,0 +1,6 @@
+application_name=kaka507
+application_version=0.0.1
+application_description=\"kaka507\"
+application_icon=
+helm_chart_version=0.0.1
+docker_registry=kakawangsap
